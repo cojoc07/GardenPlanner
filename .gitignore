@@ -1,4 +1,5 @@
 node_modules/**/*
+constants/constants.js
 .expo/*
 npm-debug.*
 *.jks

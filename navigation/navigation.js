@@ -26,7 +26,9 @@ const MyTabs = () => {
         },
       })}
       tabBarOptions={{
-        activeTintColor: "tomato",
+        inactiveBackgroundColor: "#efefef",
+        activeBackgroundColor: "#efefef",
+        activeTintColor: "green",
         inactiveTintColor: "gray",
       }}
     >
